@@ -75,17 +75,31 @@ My strategy to solve this challenge was:
 ---
 # 4. Top 3 Data Insights
 
-**Hypothesis 01:**
+## Hypothesis 01
+The number of patients with CVD surpass the non-CVD number at the BMI of 30 (obese).
 
-**True/False.**
+**False.** the number of patients with CVD surpass the non CVD at the BMI between 27 and 28. Thenceforth, the number of patients with CVD is always higher.
 
-**Hypothesis 02:**
+<p align='center'>
+<img src="imgs/top_hyp_1.PNG" alt="drawing" width="75%"/>
+</p>
 
-**True/False.**
+## Hypothesis 02
+The proportion of hypertensive patients with CVD is higher among those who smoke.
 
-**Hypothesis 03:**
+**False.** the proportion of hypertensive patients that have CVD is almost the same between smokers and non-smokers (there are around 20% of patients with CVD).
 
-**True/False.**
+<p align='center'>
+<img src="imgs/top_hyp_2.PNG" alt="drawing" width="75%"/>
+</p>
+
+## Hypothesis 03:
+The proportion of patients with CVD is at least 20% higher among those who drink alcohol.
+
+**False.** As observed, the proportion of patients with CVD is slightly higher among those who don't drink alcohol.
+<p align='center'>
+<img src="imgs/top_hyp_3.PNG" alt="drawing" width="75%"/>
+</p>
 
 ---
 # 5. Machine Learning Model Applied
