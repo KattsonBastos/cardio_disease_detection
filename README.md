@@ -8,7 +8,7 @@
 </p>
 
 
-## This project aims build a Machine Learning Model to detect cardiovascular disease in early stages.
+## This project aims to build a Machine Learning Model to detect cardiovascular disease in early stages.
 
 #### Made by Kattson Bastos.
 
