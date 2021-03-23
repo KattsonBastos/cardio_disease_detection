@@ -12,7 +12,7 @@
 
 #### Made by Kattson Bastos.
 
-Note: if something goes wrong when opening the notebook, please try [this link](https://nbviewer.jupyter.org/github/KattsonBastos/cardio_disease_detection/tree/main/notebooks/).
+Note: if something goes wrong when opening the notebook, please try [this link](https://nbviewer.jupyter.org/github/KattsonBastos/cardio_disease_detection/blob/main/notebooks/1.0.kbs_cardio_diseases.ipynb).
 
 ---
 # 1. Business Problem
