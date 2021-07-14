@@ -72,7 +72,7 @@ My strategy to solve this challenge was:
 
 **Step 09. Convert Model Performance to Business Values:** Convert the performance of the Machine Learning model into a business result.
 
-**Step 10. Deploy Modelo to Production:** Publish the model in a cloud environment so that other people or services can use the results to improve the business decision.
+**Step 10. Deploy Model to Production:** Publish the model in a cloud environment so that other people or services can use the results to improve the business decision.
 
 ---
 # 4. Top 3 Data Insights
@@ -104,10 +104,10 @@ The proportion of patients with CVD is at least 20% higher among those who drink
 </p>
 
 ---
-# 5. Machine Learning Model Applied
+# 5. Machine Learning - Models Applied
 
 ---
-# 6. Machine Learning Modelo Performance
+# 6. Machine Learning - Model Performance
 
 ---
 # 7. Business Results
